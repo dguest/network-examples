@@ -1,0 +1,14 @@
+# ignore some subdirectories
+/*/
+/*/
+
+# ignore common data file types
+*.yml
+*.yaml
+*.json
+*.txt
+*.h5
+*.tgz
+*.gz
+
+
